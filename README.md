@@ -1,1 +1,1 @@
-# WebPhotography
+Sistem Informasi fotografi
